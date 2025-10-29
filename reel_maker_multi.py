@@ -588,7 +588,7 @@ def editor(csv_path, output_path, path, words, srt_file, audio_path = None):
 
 
     # Load the IM Fell English font (ensure it's installed or use a .ttf file)
-    FONT_PATH = r"C:\Users\y29ga\OneDrive\Desktop\IM_Fell_English\IMFellEnglish-Regular.ttf"
+    FONT_PATH = "Ubuntu-Bold"
 
     # Define subtitle style
     def subtitle_generator(txt):
@@ -596,7 +596,7 @@ def editor(csv_path, output_path, path, words, srt_file, audio_path = None):
             txt,
             fontsize=60, 
             color="white",
-            font="",  # Use IM Fell English
+            font=FONT_PATH,  # Use IM Fell English
             bg_color="black"
         ).set_opacity(0.5)  # Semi-transparent background
 
@@ -614,25 +614,25 @@ def editor(csv_path, output_path, path, words, srt_file, audio_path = None):
     subtitles = SubtitlesClip(subtitles_list, subtitle_generator)
 
     # Overlay subtitles on video at custom position
-    transition_video = CompositeVideoClip([
+    final_video = CompositeVideoClip([
         transition_video, 
         subtitles.set_position(("center", transition_video.h * 0.8))  # Adjust position for a better match
     ])
         
-    # Outro clip (if provided)
+    # # Outro clip (if provided)
     
-    extra_clip = VideoFileClip("C:/Users/y29ga/OneDrive/Desktop/instagram/dark-romance/outro_clip.mp4")
-    # Resize and match FPS
-    extra_clip = extra_clip.resize(height=transition_video.h).set_fps(transition_video.fps).set_audio(None)
+    # extra_clip = VideoFileClip("C:/Users/y29ga/OneDrive/Desktop/instagram/dark-romance/outro_clip.mp4")
+    # # Resize and match FPS
+    # extra_clip = extra_clip.resize(height=transition_video.h).set_fps(transition_video.fps).set_audio(None)
 
-    # Convert to the same codec
-    extra_clip = extra_clip.set_duration(extra_clip.duration)  
+    # # Convert to the same codec
+    # extra_clip = extra_clip.set_duration(extra_clip.duration)  
 
-    # Ensure both clips are RGB format (some videos may use YUV)
-    extra_clip = extra_clip.set_opacity(1)
+    # # Ensure both clips are RGB format (some videos may use YUV)
+    # extra_clip = extra_clip.set_opacity(1)
 
-    # Concatenate safely
-    final_video = concatenate_videoclips([transition_video, extra_clip], method="compose")  
+    # # Concatenate safely
+    # final_video = concatenate_videoclips([transition_video, extra_clip], method="compose")  
     
    
 
@@ -662,7 +662,7 @@ folders = process_reels(base_folder)
 import concurrent.futures
 
 def process_reel(path):
-    a = path.split("\\")
+    a = path.split(os.sep)
     csv_path = os.path.join(path, "config.csv")
     output_path = os.path.join(path, f"reel{a[-1]}.mp4")
     srt_file = os.path.join(path, "audio.srt")

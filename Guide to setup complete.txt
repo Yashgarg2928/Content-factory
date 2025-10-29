@@ -2,5 +2,12 @@ Guide to setup complete automation
 
 1. install python3 
 2. set up a miniconda env with python version 3.21
-3. install python libraries of requirment.txt inside conda env
-4. install 
+
+3. install ffmpeg using 
+sudo apt install ffmpeg -y
+4. install imagemagick using
+sudo apt install imagemagick -y
+5. install opencv
+sudo apt install libopencv-dev python3-opencv -y 
+
+6. install python libraries of requirment.txt inside conda env

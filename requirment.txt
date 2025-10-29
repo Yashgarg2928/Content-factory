@@ -1,3 +1,8 @@
 selenium
 webdriver_manager
 imapclient
+moviepy==1.0.3
+pysrt
+numpy
+pillow
+opencv-python
