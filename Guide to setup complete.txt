@@ -1,0 +1,6 @@
+Guide to setup complete automation
+
+1. install python3 
+2. set up a miniconda env with python version 3.21
+3. install python libraries of requirment.txt inside conda env
+4. install 

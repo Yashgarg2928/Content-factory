@@ -11,7 +11,7 @@ from moviepy.video.tools.subtitles import SubtitlesClip
 from moviepy.config import change_settings
 import uuid
 # For Windows (update the path to where you installed ImageMagick)
-change_settings({"IMAGEMAGICK_BINARY": r"C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\magick.exe"})
+# change_settings({"IMAGEMAGICK_BINARY": r"C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\magick.exe"})
 
 def process_reels(base_folder): #makes a list of paths of reel folders
     reel_paths = []
