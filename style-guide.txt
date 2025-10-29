@@ -1,0 +1,241 @@
+# 🎨 Style Guide: Line Art – Black & White  
+
+**Step 1 – Core Rendering Style**  
+- Minimalistic 2D line drawing.  
+- Clean thin black outlines only.  
+- No shading, no colors.  
+- Plain white background.  
+- Flat orthographic perspective.  
+- Professional and symbolic tone (not cartoonish).  
+- HEX codes from characters are used as palette references only (not rendered).  
+
+**Step 2 – Composition Rules**  
+- Environments and characters should be drawn simply, symbolic rather than realistic.  
+- Camera angles in the meta-prompt (low-angle, wide, etc.) are interpreted as **flat layout positioning** (e.g., left, right, centered).  
+- Lens and depth-of-field details are ignored.  
+
+**Step 3 – Lighting & Mood**  
+- No realistic lighting or shadows.  
+- Emotional tone is conveyed through **expressions, poses, and symbolic background elements**.  
+
+**Step 4 – Final Negative Prompts**  
+--no extra limbs, --no character duplication, --no face blending, --no distortions, --no gradients, --no textures, --no 3D, --no color  
+
+**Step 5 – Example Prompt (Meta + Style Combined)**  
+SilentBridgeR1I1 On a quiet empty bridge under a pale sky, minimal details in the environment suggest stillness and farewell. Aoi, with long flowing black hair (#0A0A0A) and soft brown eyes (#8B5A2B), stands in her school blazer (#1E90FF) and white shirt (#FFFFFF), posture hesitant, lips pressed with bittersweet restraint. Haru leans against the railing, short messy blond hair (#FFD700), green eyes (#2E8B57), wearing a white hoodie (#F5F5F5) and black jeans (#1E1E1E), gaze lowered with quiet melancholy. No shadows, clean outlines only, emotions conveyed symbolically. Flat orthographic layout, simple framing. Minimalistic 2D line drawing with clean thin black outlines, no shading, no colors, plain white background, professional symbolic tone. --no extra limbs, --no character duplication, --no face blending, --no distortions, --no gradients, --no textures, --no 3D, --no color
+
+
+endshere****
+
+# 🎨 Style Guide: 2D Flat-Color Illustration  
+
+**Step 1 – Core Rendering Style**  
+- Minimalistic 2D flat-color illustration.  
+- Solid fills only (no gradients or textures).  
+- Clean thin outlines.  
+- Soft pastel or muted palette.  
+- Light or plain backgrounds.  
+- Flat orthographic perspective (no depth or 3D).  
+- Professional, symbolic tone (not cartoonish).  
+- HEX codes from characters are applied directly as flat fills.  
+
+**Step 2 – Composition Rules**  
+- Scenes should be simple and clearly structured.  
+- Camera angles from the meta-prompt (wide, close-up, etc.) are translated into flat compositions with relative size/position emphasis instead of 3D perspective.  
+- Lens details are optional, treated conceptually (“framed like a close-up” instead of literal lens blur).  
+
+**Step 3 – Lighting & Mood**  
+- No realistic lighting effects.  
+- Mood is conveyed through **color palette, expressions, and symbolic background elements**.  
+- Use soft pastel tones to suggest atmosphere (e.g., warm peach for comfort, pale blue for calm).  
+
+**Step 4 – Final Negative Prompts**  
+--no extra limbs, --no character duplication, --no face blending, --no distortions, --no gradients, --no textures, --no 3D, --no photorealism  
+
+**Step 5 – Example Prompt (Meta + Style Combined)**  
+SilentBridgeR1I1 On a quiet bridge under a pastel orange sky, simplified city blocks fade softly in the distance. Aoi, with long black hair (#0A0A0A) and soft brown eyes (#8B5A2B), stands in a blue school blazer (#1E90FF) and white shirt (#FFFFFF), posture hesitant, lips pressed with bittersweet restraint. Haru leans on the railing, short messy blond hair (#FFD700), green eyes (#2E8B57), in a white hoodie (#F5F5F5) and black jeans (#1E1E1E), gaze lowered with quiet melancholy. Background fades to light pastel orange, emphasizing emotional tone. Flat composition, simple framing. Minimalistic 2D flat-color illustration with clean outlines, soft pastel palette, plain background, professional symbolic look. --no extra limbs, --no character duplication, --no face blending, --no distortions, --no gradients, --no textures, --no 3D, --no photorealism
+
+endeshere****
+
+# 🎨 Style Guide: Whiteboard-Style Sticker Diagram  
+
+**Step 1 – Core Rendering Style**  
+- Whiteboard-style 2D diagram.  
+- Sticker-like icons or characters with clean black outlines.  
+- Plain white background.  
+- Bold arrows or connectors for relationships/flow.  
+- Minimal or flat solid colors (optional pastel tones only).  
+- Flat orthographic layout, not realistic.  
+- Professional, explanatory tone (not cartoonish).  
+- HEX codes from characters may be referenced but simplified into flat or symbolic colors.  
+
+**Step 2 – Composition Rules**  
+- Diagrams should be structured clearly: subjects or icons arranged in left-to-right, top-to-bottom, or circular flows.  
+- Camera angles from the meta-prompt are interpreted as **diagram arrangement** (e.g., “wide shot” → more spread-out layout, “close-up” → fewer elements, zoomed in).  
+- Ignore lens/focal length.  
+
+**Step 3 – Lighting & Mood**  
+- No realistic lighting or shadows.  
+- Emphasis comes from layout clarity, arrows, and labels.  
+- Emotional tone is conveyed through simplicity and symbolic arrangement, not cinematic realism.  
+
+**Step 4 – Final Negative Prompts**  
+--no extra limbs, --no character duplication, --no face blending, --no distortions, --no gradients, --no textures, --no 3D, --no photorealism  
+
+**Step 5 – Example Prompt (Meta + Style Combined)**  
+SilentBridgeR1I1 A simple whiteboard-style diagram illustrates two characters parting ways on a bridge. On the left, Aoi with long black hair (#0A0A0A) in a blue school blazer (#1E90FF) and white shirt (#FFFFFF) is drawn as a minimal sticker icon, her posture turned slightly away. On the right, Haru with blond hair (#FFD700) in a white hoodie (#F5F5F5) and black jeans (#1E1E1E) faces her with lowered gaze, simplified into a matching sticker-like icon. A bold arrow points between them, symbolizing farewell. Flat orthographic layout, plain white background, minimal color accents only. Whiteboard-style 2D diagram with clean outlines, sticker-like icons, clear flow, professional symbolic tone. --no extra limbs, --no character duplication, --no face blending, --no distortions, --no gradients, --no textures, --no 3D, --no photorealism
+
+
+endshere****
+
+# 🎨 Style Guide: Clean 2D Anime Illustration  
+
+**Step 1 – Core Rendering Style**  
+- Clean 2D anime-style illustration.  
+- Flat color or soft pastel palette.  
+- Thin black outlines, clear linework.  
+- No realism, no blur, no painterly effects.  
+- Slice-of-life emotional tone (peaceful, nostalgic, or gentle mood).  
+- HEX codes from characters are applied directly to colors.  
+
+**Step 2 – Composition Rules**  
+- Camera angles and shots from the meta-prompt are respected (eye-level, wide, close-up, etc.) but expressed in flat anime framing.  
+- Depth of field is subtle — soft atmospheric fade, not photographic blur.  
+- Keep backgrounds simple, softly faded, or pastel-toned to focus on characters.  
+
+**Step 3 – Lighting & Mood**  
+- No hyper-realistic lighting.  
+- Use soft ambient glow, pastel shading, or gentle sunlight for mood.  
+- Emotional tone is conveyed with character expressions, body language, and subtle atmospheric elements (e.g., cherry blossoms, sunset).  
+
+**Step 4 – Final Negative Prompts**  
+--no extra limbs, --no character duplication, --no face blending, --no distortions, --no realism, --no photorealism, --no sharp anatomy, --no 3D renders  
+
+**Step 5 – Example Prompt (Meta + Style Combined)**  
+SilentBridgeR1I1 On a quiet bridge glowing under the pastel tones of sunset, soft orange light fades into pale blue sky. Aoi, with long flowing black hair (#0A0A0A) and soft brown eyes (#8B5A2B), stands in her school blazer (#1E90FF) and white shirt (#FFFFFF), posture hesitant, lips pressed with bittersweet restraint. Haru leans against the railing, short messy blond hair (#FFD700), green eyes (#2E8B57), white hoodie (#F5F5F5) slightly rumpled, black jeans (#1E1E1E), gaze lowered with quiet melancholy. Gentle pastel glow reflects across the bridge, soft ambient light filling the scene. Medium-wide shot, eye-level framing, simple composition. Clean 2D anime-style illustration with flat pastel colors, thin outlines, slice-of-life tone, inspired by Kyoto Animation. --no extra limbs, --no character duplication, --no face blending, --no distortions, --no realism, --no photorealism, --no sharp anatomy, --no 3D renders %
+
+
+endshere****
+
+# 🎨 Style Guide: Ultra-Realistic Selfie-Style (POV)  
+
+**Step 1 – Core Rendering Style**  
+- Ultra-realistic rendering with cinematic immersion.  
+- Selfie perspective: one arm partially in frame, subject looking directly into the lens.  
+- Visible skin details (texture, pores, sweat, freckles as appropriate).  
+- Realistic fabric details (wrinkles, folds, textures).  
+- Shallow depth of field with soft bokeh.  
+- Cinematic lighting (natural, environmental, or dramatic depending on the scene).  
+- HEX codes from characters are rendered as real textures and colors.  
+
+**Step 2 – Composition Rules**  
+- Always frame as if the subject is taking the photo themselves.  
+- The extended arm should appear partially in-frame.  
+- Eye contact with the “camera” is mandatory.  
+- Use close-up or medium-close framing, wide lenses (24–35mm) for selfie realism.  
+
+**Step 3 – Lighting & Mood**  
+- Naturalistic lighting (sunlight, indoor warm glow, moonlight, etc.).  
+- Atmosphere enhanced by environmental effects (dust, fog, particles, sun flares).  
+- Emotions expressed through subtle realism (eyes, posture, facial tension).  
+
+**Step 4 – Final Negative Prompts**  
+--no extra limbs, --no character duplication, --no face blending, --no distortions, --no cartoon, --no flat shading, --no 3D renders, --no stylization, --no painterly effects  
+
+**Step 5 – Example Prompt (Meta + Style Combined)**  
+MoonChildR1I1 On the dusty gray surface of the Moon beneath a star-speckled black sky, Earth glows in the distance with pale blue radiance. A young child in cozy white pajamas (#FFFFFF) with faint star patterns (#FFD700) stands barefoot, wide eyes filled with awe. Their messy brown hair (#5A3B2E) falls around their face as they extend one arm toward the camera, capturing themselves in the frame. Wrinkles in the fabric and subtle dust on their cheeks catch soft lunar light. Shallow depth of field blurs the rocks behind, while Earth glows vividly above. Ultra-realistic selfie-style POV image with visible skin texture, fabric details, cinematic soft lighting, and immersive realism. --no extra limbs, --no character duplication, --no face blending, --no distortions, --no cartoon, --no flat shading, --no 3D renders, --no stylization, --no painterly effects %
+
+
+endshere****
+
+
+# 🎨 Style Guide: Modern Anime Illustration (Shinkai-Inspired)  
+
+**Step 1 – Core Rendering Style**  
+- Modern anime-style illustration inspired by Makoto Shinkai and Kyoto Animation.  
+- Clean detailed linework with cel-shaded coloring.  
+- Soft ambient glow, rim light, or bloom effects.  
+- Expressive anime-style eyes, youthful and emotional tone.  
+- Cinematic, dreamlike backgrounds (sky, stars, dusk, light rays).  
+- HEX codes from characters are applied directly as cel-shaded colors.  
+
+**Step 2 – Composition Rules**  
+- Camera angles and shots from the meta-prompt are respected (low-angle, wide, close-up, etc.).  
+- Slight atmospheric blur or shallow depth can be used, but not realistic lens blur.  
+- Backgrounds should always support the emotion of the scene (sunset, city at night, starlit sky).  
+
+**Step 3 – Lighting & Mood**  
+- Lighting should feel cinematic: glowing skies, soft rays, rim lighting, or dreamy illumination.  
+- Mood is heightened by environmental storytelling (cherry blossoms falling, glowing reflections, starry skies).  
+- Emotions are conveyed with clear body language and expressive eyes.  
+
+**Step 4 – Final Negative Prompts**  
+--no extra limbs, --no character duplication, --no face blending, --no distortions, --no photorealism, --no 3D renders, --no harsh shadows, --no painterly effects  
+
+**Step 5 – Example Prompt (Meta + Style Combined)**  
+SilentBridgeR1I1 On a glowing bridge under a sky painted in pink and orange dusk, streaks of light scatter across distant clouds with a soft atmospheric glow. Aoi, long black hair (#0A0A0A) and soft brown eyes (#8B5A2B), stands in a blue blazer (#1E90FF) over a crisp white shirt (#FFFFFF), her hesitant expression lit gently by the fading sun. Haru, messy blond hair (#FFD700) and green eyes (#2E8B57), leans against the railing in a white hoodie (#F5F5F5) and black jeans (#1E1E1E), his gaze lowered, melancholy visible. Ambient glow spreads across the river below, with star-like highlights emerging faintly in the sky. Wide shot, cinematic framing, slightly shallow atmospheric depth. Modern anime-style illustration with cel-shading, expressive eyes, glowing sky, and cinematic lighting inspired by Makoto Shinkai. --no extra limbs, --no character duplication, --no face blending, --no distortions, --no photorealism, --no 3D renders, --no harsh shadows, --no painterly effects %
+
+endshere****
+
+# 🎨 Style Guide: Retro Pixel Art Game Style  
+
+**Step 1 – Core Rendering Style**  
+- Retro pixel art inspired by 8-bit and 16-bit video games (NES, SNES, Sega Genesis).  
+- Visible pixel grid, blocky proportions, simplified anatomy.  
+- Limited color palette (~8–32 colors only).  
+- Pixel shading with dithering, no gradients.  
+- Bold outlines and sharp contrast.  
+- 2D side view or isometric perspective.  
+- Nostalgic, dramatic, arcade-inspired tone.  
+- HEX codes from characters are converted into simplified pixel palette approximations.  
+
+**Step 2 – Composition Rules**  
+- Camera angles from the meta-prompt are interpreted as **pixelated perspectives**:  
+  - “Wide shot” = side-scrolling stage.  
+  - “Close-up” = larger sprite focus.  
+  - “Low angle” = sprite slightly scaled from below.  
+- Ignore realistic lens/focal lengths.  
+- Keep backgrounds simple but atmospheric (pixelated sunset, ruins, explosions).  
+
+**Step 3 – Lighting & Mood**  
+- Use contrast in pixel shading (bright vs dark) to convey mood.  
+- Atmosphere comes from pixel-level details (burning sunset, glowing pixel explosions, flickering lights).  
+- Tone can be dramatic, heroic, or nostalgic.  
+
+**Step 4 – Final Negative Prompts**  
+--no extra limbs, --no character duplication, --no face blending, --no distortions, --no gradients, --no textures, --no photorealism, --no 3D renders, --no anti-aliasing, --no smooth shading  
+
+**Step 5 – Example Prompt (Meta + Style Combined)**  
+SilentBridgeR1I1 A pixelated bridge stretches across a glowing sunset sky, blocky clouds fading into orange and purple tones. Aoi, rendered in pixel art with long black hair (#0A0A0A) and brown eyes (#8B5A2B), stands in a simplified blue school blazer (#1E90FF) and white shirt (#FFFFFF), her sprite facing Haru with hesitant stance. Haru, blond hair (#FFD700), green eyes (#2E8B57), in a pixelated white hoodie (#F5F5F5) and black jeans (#1E1E1E), sprite leaning against the railing in melancholy. The river below flickers in jagged pixel highlights, nostalgic and dramatic. Side-scroller framing with 16-bit retro shading, inspired by classic arcade games like Metal Slug. Retro pixel art illustration with visible pixel grid, limited palette, bold outlines, and cinematic layout. --no extra limbs, --no character duplication, --no face blending, --no distortions, --no gradients, --no textures, --no photorealism, --no 3D renders, --no anti-aliasing, --no smooth shading %
+
+endshere****
+
+# 🎨 Style Guide: Ultra-Realistic Split-Image Contrast  
+
+**Step 1 – Core Rendering Style**  
+- Ultra-realistic split-image composition.  
+- Frame divided visually into left and right halves.  
+- Each half shows a contrasting subject, environment, or lifestyle.  
+- Natural skin texture and realistic anatomy (no over-polished or plasticky look).  
+- Real-world lighting and cinematic color grading.  
+- Depth of field for focus and storytelling.  
+- HEX codes from characters are rendered as real-world colors and textures.  
+
+**Step 2 – Composition Rules**  
+- The frame must be clearly split:  
+  - Left = Subject A with unique environment, mood, and props.  
+  - Right = Subject B with contrasting environment, mood, and props.  
+- Camera angles from the meta-prompt should balance across both halves (e.g., eye-level split shot).  
+- Lighting should emphasize contrast (bright vs moody, warm vs cold).  
+
+**Step 3 – Lighting & Mood**  
+- Cinematic lighting with strong contrasts between the two halves.  
+- Use environmental storytelling to emphasize differences (e.g., order vs chaos, rich vs poor).  
+- Maintain realistic textures (clothing folds, skin pores, material detail).  
+
+**Step 4 – Final Negative Prompts**  
+--no extra limbs, --no character duplication, --no face blending, --no distortions, --no gradients, --no cartoon, --no flat shading, --no painterly effects, --no 3D renders  
+
+**Step 5 – Example Prompt (Meta + Style Combined)**  
+SilentBridgeR1I1 Ultra-realistic split-image of a quiet bridge at dusk: on the left, Aoi with long black hair (#0A0A0A) and brown eyes (#8B5A2B), standing in a blue blazer (#1E90FF) and white shirt (#FFFFFF), gazing into the warm golden light of a calm city. On the right, Haru with blond hair (#FFD700) and green eyes (#2E8B57), dressed in a white hoodie (#F5F5F5) and black jeans (#1E1E1E), leans against a railing under stormy clouds, cold bluish light casting across a cluttered urban sprawl. The frame is evenly divided, cinematic contrast of peace versus melancholy. Ultra-realistic split-image style with natural skin textures, cinematic lighting, expressive posture, and deep environmental storytelling. --no extra limbs, --no character duplication, --no face blending, --no distortions, --no gradients, --no cartoon, --no flat shading, --no painterly effects, --no 3D renders %
+
