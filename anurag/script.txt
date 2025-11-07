@@ -1,0 +1,301 @@
+book name: hunting
+%
+1. Adeline Reilly (“Addie”)
+
+Role: POV protagonist, kidnapped by the Society.
+
+Visual profile: Young woman, cinnamon-brown hair (#8B5C42), light brown eyes (#C1A179), pale skin, freckles, expressive face often torn between fear and defiance. Clothing shifts between torn/captive gowns and casual chic. Lighting usually dim, harsh, gritty.
+
+Voice tag: f1 (female/narrator/storyteller/warm/expressive/gentle) → Because she is the first-person POV narrator.
+
+2. Zade Meadows
+
+Role: Anti-hero, hacker, mercenary, Adeline’s obsessive protector/lover. Ruthless toward enemies, tender toward Adeline.
+
+Visual profile: Tall, dark presence, black hair (#1C1C1C), piercing blue-gray eyes (#6D7B8D), muscular build, tattoos, often in black tactical wear. Cinematic lighting: stark shadows, neon reflections, fire-lit vengeance.
+
+Voice tag: m1 (male/calm/baritone/slow-paced/emotional-rich/storyteller/audiobook)
+
+3. Rio
+
+Role: Kidnapper, violent, mocking, works with the Society.
+
+Visual profile: Tattooed, angular face, scar through short black hair (#2B2B2B), near-black eyes (#0D0D0D), leather jacket, threatening posture. Lighting: dim, menacing.
+
+Voice tag: m13 (male/deep/gravelly/slow/evil/dark/mastermind)
+
+4. Rick
+
+Role: Second kidnapper, drug-addicted, cruel, erratic.
+
+Visual profile: Greasy hair (#3B302A), pale scarred skin (#D1BCA6), gaunt features, baseball cap, dirty clothing. Lighting: sickly fluorescent or grungy.
+
+Voice tag: m15 (male/raspy/whispering/creepy/shadowy/taunting)
+
+5. Dr. Garrison
+
+Role: Corrupt doctor working with Society, tends to Adeline’s injuries while aiding captors.
+
+Visual profile: Older, gray hair (#9C9C9C), pale blue eyes (#8FAADC), bushy mustache, hospital coat, cold expression. Lighting: clinical, sterile, unsettling.
+
+Voice tag: m3 (male/aged/raspy/thoughtful/wisdom/grandfatherly/reflective)
+
+6. Claire Seinburg
+
+Role: Female antagonist, secretly leading the Society, sadistic manipulator.
+
+Visual profile: Striking red curls (#B22222), sharp green eyes (#3A5F0B), red lips (#A50C1E), expensive tailored dresses or ritual robes. Lighting: theatrical, sinister, fire-lit shadows.
+
+Voice tag: f13 (female/villainous/sinister/cold/calculated)
+
+7. Jay (Jason Scott)
+
+Role: Zade’s right-hand man, hacker, loyal but inexperienced in field combat.
+
+Visual profile: Lean, youthful, black hair (#1C1C1C), hazel eyes (#8E735B), casual wear, nervous energy. Lighting: tech-glow, screens.
+
+Voice tag: m11 (male/relaxed/casual/mid-range/teacher-like/supportive)
+
+🎙️ POV & NARRATOR
+
+POV: First-person, alternating between Adeline and Zade.
+
+Narrator Mapping:
+
+In Adeline chapters → f1 delivers ALL narration and side-character dialogue.
+
+In Zade chapters → m1 delivers ALL narration and side-character dialogue.
+%
+🔥 Reel 1 – “The Diamond”
+(Adeline awakens kidnapped in the van — POV: Adeline → voice tag = f1)
+
+✅ Image 1 – Dark, claustrophobic van interior. Shadows swallow everything. The smell of sweat, blood, and fear seems to hang in the air.
+🗣️ Audio: f1
+“Smell. The first thing I notice.”
+
+✅ Image 2 – Close-up: Adeline’s face half-hidden beneath a black blindfold, lips cracked, trembling.
+🗣️ Audio: f1
+“Body odor, spiced cologne, stench of evil.”
+
+✅ Image 3 – Cinematic shot of a bound figure in pitch-black, faint outlines of ropes and bruises.
+🗣️ Audio: f1
+“I’m in danger.”
+
+✅ Image 4 – Abstract swirl of flashing red alarms inside her head, chest heaving.
+🗣️ Audio: f1
+“Adrenaline spikes. Panic claws up my throat.”
+
+✅ Image 5 – Her crusted eyes barely crack open beneath the blindfold.
+🗣️ Audio: f1
+“I try to open my eyes.”
+
+✅ Image 6 – Blurred shot of complete blackness, suffocating.
+🗣️ Audio: f1
+“Darkness. A blindfold straps my head.”
+
+✅ Image 7 – Her body convulses, skin torn, back shredded with unseen agony.
+🗣️ Audio: f1
+“Agony consumes me. Every inch screams.”
+
+✅ Image 8 – Close-up of her lips, a faint smirk despite tears.
+🗣️ Audio: f1
+“I fucking earned heaven’s gates.”
+
+✅ Image 9 – Fuzzy memory sequence: glowing phone screen, unanswered texts, headlights rushing in.
+🗣️ Audio: f1
+“Daya’s texts. My car. Then nothing.”
+
+✅ Image 10 – Her bound hands twitch against rough fabric in the van.
+🗣️ Audio: f1
+“Now I’m here. Not safe.”
+
+✅ Image 11 – Shadowy blur of two men in the front of the van.
+🗣️ Audio: f1
+“Voices grow louder over my heartbeat.”
+
+✅ Image 12 – Harsh whisper from the front seat, cigarette smoke curling.
+🗣️ Audio: f1
+“‘Z will be looking for her.’”
+
+✅ Image 13 – Memory flash: glass shattering, her body dragged from car wreckage.
+🗣️ Audio: f1
+“They dragged me out. My back’s on fire.”
+
+✅ Image 14 – Overhead shot: Adeline curled on van floor, hair tangled, trembling.
+🗣️ Audio: f1
+“I’ve been kidnapped. The Society’s doing.”
+
+✅ Image 15 – Distorted flash of Daya’s face, uncertain, panicked.
+🗣️ Audio: f1
+“Did they use Daya as bait?”
+
+✅ Image 16 – Her blindfolded face strains, jaw tight, a tear slipping free.
+🗣️ Audio: f1
+“Fuck. I walked right into their trap.”
+
+✅ Image 17 – Harsh male silhouette, a cruel laugh, pointing back toward her.
+🗣️ Audio: f1
+“‘Z’s girl, worth millions on auction.’”
+
+✅ Image 18 – Close-up: her hands yank hair strands loose, falling to van floor.
+🗣️ Audio: f1
+“Leave evidence. Zade taught me that.”
+
+✅ Image 19 – The van jolts violently, her body jerking, a muffled yelp.
+🗣️ Audio: f1
+“A brutal bump forces a cry from me.”
+
+✅ Image 20 – Menacing grin in darkness, voice dripping mockery.
+🗣️ Audio: f1
+“‘Welcome to the land of the living.’”
+
+✅ Image 21 – Her cracked lips, whispering defiance.
+🗣️ Audio: f1
+“‘Where are you taking me?’”
+
+✅ Image 22 – Smirking silhouette in the front seat.
+🗣️ Audio: f1
+“‘To your new home. Highest bidder wins.’”
+
+✅ Image 23 – She glares beneath blindfold, voice hoarse, biting.
+🗣️ Audio: f1
+“‘Great. I’ve hit the jackpot.’”
+
+✅ Image 24 – The second man laughs cruelly, shaking his head.
+🗣️ Audio: f1
+“‘Hold onto that humor, baby girl.’”
+
+✅ Image 25 – Close-up needle piercing her arm, liquid burning inside veins.
+🗣️ Audio: f1
+“A sharp prick. Burning in my veins.”
+
+✅ Image 26 – Her breath catching, lips parting in sudden shock.
+🗣️ Audio: f1
+“My last breath escapes.”
+
+✅ Image 27 – Cinematic fade into total blackness, silence swallowing everything.
+🗣️ Audio: f1
+“Darkness descends.”
+%
+🔥 Reel 2 – “The Doctor”
+(Adeline wakes again, injured, treated by Dr. Garrison while Rio and Rick loom — POV: Adeline → voice tag = f1)
+
+✅ Image 1 – Blurred POV: white ceiling lights piercing through ringing ears.
+🗣️ Audio: f1
+“Her vitals unstable. Blood pressure dropping.”
+
+✅ Image 2 – Adeline’s body twitching under restraints, skin clammy, drenched in sweat.
+🗣️ Audio: f1
+“Agony blazes through me like fire.”
+
+✅ Image 3 – Shadowy figures leaning over her, indistinct, voices muffled.
+🗣️ Audio: f1
+“Dislocated shoulder. Head trauma. Lacerations everywhere.”
+
+✅ Image 4 – Harsh voice barking, frustration etched in every line.
+🗣️ Audio: f1
+“This isn’t a hospital, goddammit!”
+
+✅ Image 5 – A flashlight beam blinding her eye, fingers prying lids open.
+🗣️ Audio: f1
+“‘Can you tell me what hurts?’”
+
+✅ Image 6 – Close-up of an older man: gray hair, bushy mustache, pale blue eyes.
+🗣️ Audio: f1
+“My shoulder. My head.”
+
+✅ Image 7 – Weak gasp, bloodied back glimpsed beneath torn gown.
+🗣️ Audio: f1
+“My back feels shredded.”
+
+✅ Image 8 – Syringe sliding into her arm, eyelids growing heavy.
+🗣️ Audio: f1
+“He says anesthesia. My body betrays me.”
+
+✅ Image 9 – Sinister silhouette of Rio, tattooed throat laurel leaves visible.
+🗣️ Audio: f1
+“Time to go to sleep, princess.”
+
+✅ Image 10 – Her eyelids slam shut, but Zade’s voice echoes in her mind.
+🗣️ Audio: f1
+“Fight for me. Survive until I get there.”
+
+✅ Image 11 – Fade into darkness, then muffled argument over her body.
+🗣️ Audio: f1
+“She’ll have scars. Stitches along her back.”
+
+✅ Image 12 – Rick snarling, scarred face lit by sterile light.
+🗣️ Audio: f1
+“‘That decreases her value!’”
+
+✅ Image 13 – Doctor coldly rebuking, gestures at her wounds.
+🗣️ Audio: f1
+“She was dragged through glass and metal.”
+
+✅ Image 14 – Rio spitting with fury, leaning over her bed.
+🗣️ Audio: f1
+“Lift the car like I’m Superman?”
+
+✅ Image 15 – Adeline’s eyes flutter open, three men looming above.
+🗣️ Audio: f1
+“A nightmare. I’m their experiment.”
+
+✅ Image 16 – Doctor offers Styrofoam cup, her trembling hands clutch water.
+🗣️ Audio: f1
+“Cold water burns down my throat.”
+
+✅ Image 17 – Close-up: Adeline in hospital gown, blanket barely covering her.
+🗣️ Audio: f1
+“They cut off my clothes.”
+
+✅ Image 18 – Rick mutters, sneering, his eyes dark with contempt.
+🗣️ Audio: f1
+“‘Thank Rio for that.’”
+
+✅ Image 19 – Rio’s face twisted in threat, words like knives.
+🗣️ Audio: f1
+“‘Shut up, or I’ll kill you myself.’”
+
+✅ Image 20 – Vital signs monitor spiking, her panic betraying her.
+🗣️ Audio: f1
+“This is true terror. Not Zade’s.”
+
+✅ Image 21 – Dr. Garrison steps forward, trying to speak calmly.
+🗣️ Audio: f1
+“My name is Dr. Garrison.”
+
+✅ Image 22 – Her lips clamp shut, refusing to give her name.
+🗣️ Audio: f1
+“Fuck you. I’m not playing along.”
+
+✅ Image 23 – Rio smirking cruelly, leaning into her face.
+🗣️ Audio: f1
+“‘Your pussy still works with brain damage.’”
+
+✅ Image 24 – She looks away, eyes narrowing at Garrison.
+🗣️ Audio: f1
+“Keep your mouth shut, Addie.”
+
+✅ Image 25 – Dr. Garrison replaces IV bag, expression tense.
+🗣️ Audio: f1
+“We need you in shape.”
+
+✅ Image 26 – Her lips tremble, whispering weakly.
+🗣️ Audio: f1
+“What day is it?”
+
+✅ Image 27 – Rick barks, face twisted, spit flying.
+🗣️ Audio: f1
+“‘You don’t get to ask questions!’”
+
+✅ Image 28 – Doctor ignores him, answers evenly.
+🗣️ Audio: f1
+“It’s Thursday.”
+
+✅ Image 29 – Adeline’s eyes widen, a grin flickers.
+🗣️ Audio: f1
+“Five days. Zade will be raging.”
+
+✅ Image 30 – Close-up of Rio’s lips curling, mocking smile.
+🗣️ Audio: f1
+“‘Time to go to sleep, princess.’”

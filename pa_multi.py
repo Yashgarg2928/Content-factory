@@ -56,20 +56,7 @@ def enter_text(driver, element, text):
 
 def navigate_and_interact(driver):
     """Sets the image generation settings on Piclumen (e.g., aspect ratio, resolution)."""
-    try:
-        #no thanku button
-        no_thanku_css = "#driver-popover-content > footer > span.driver-popover-navigation-btns > button.driver-popover-prev-btn"
-        no_thanku_button = find_element(driver, By.CSS_SELECTOR, no_thanku_css)
-        if no_thanku_button:
-            if click_element(driver, no_thanku_button, use_js=True):
-                logging.info("No thanku button clicked successfully.")
-                time.sleep(5)  # Wait for page to load after signing in
-            else:
-                logging.warning("Failed to click no thanku button.")
-                
-        else:
-            logging.info("no thanku button not found.")
-            
+    try:    
         
         # Wait for the first button to be clickable and click it
         first_button = WebDriverWait(driver, 10).until(
@@ -113,10 +100,10 @@ def piclumen_sign_in(email, password, driver):
 
     try:
         driver.get("https://piclumen.com/app/account")
-        time.sleep(2) # Wait for load
+        time.sleep(0.3) # Wait for load
         # Email Input
-        email_input_css = "#app > div > div.content.overflow-x-hidden.dark > div.absolute.pb-16.top-0.left-0.w-screen.min-h-full.h-max.flex.justify-center.items-center.text-dark-active-text > div.w-full.md\:w-\[488px\].relative.z-10.bg-black\/50.opacity-90.backdrop-blur-3xl.mb-24.md\:mb-0.md\:rounded-3xl.overflow-hidden > div > div.w-80.mx-auto.sign-in-account > div > div.form-item.relative.pb-7.w-full.mt-2 > div > div > div.n-input-wrapper > div > input"
-        email_input = find_element(driver, By.CSS_SELECTOR, email_input_css)
+        email_input_xpath = '''//*[@id="sign_content"]/div[2]/div[1]/div/div[3]/div/div[1]/div/div/div[1]/div/input'''
+        email_input = find_element(driver, By.XPATH, email_input_xpath)
         if email_input:
             if enter_text(driver, email_input, email):
                 logging.info("Email entered successfully.")
@@ -128,8 +115,8 @@ def piclumen_sign_in(email, password, driver):
             return False
 
         # Password Input
-        password_input_css = "#app > div > div.content.overflow-x-hidden.dark > div.absolute.pb-16.top-0.left-0.w-screen.min-h-full.h-max.flex.justify-center.items-center.text-dark-active-text > div.w-full.md\:w-\[488px\].relative.z-10.bg-black\/50.opacity-90.backdrop-blur-3xl.mb-24.md\:mb-0.md\:rounded-3xl.overflow-hidden > div > div.w-80.mx-auto.sign-in-account > div > div:nth-child(2) > div > div > div.n-input-wrapper > div > input"
-        password_input = find_element(driver, By.CSS_SELECTOR, password_input_css)
+        password_input_xpath = '''//*[@id="sign_content"]/div[2]/div[1]/div/div[3]/div/div[2]/div/div/div[1]/div/input'''
+        password_input = find_element(driver, By.XPATH, password_input_xpath)
         if password_input:
             if enter_text(driver, password_input, password):  # Replace "password" with actual password
                 logging.info("Password entered successfully.")
@@ -141,8 +128,8 @@ def piclumen_sign_in(email, password, driver):
             return False
 
         # Sign In Button
-        sign_in_button_css = "#app > div > div.content.overflow-x-hidden.dark > div.absolute.pb-16.top-0.left-0.w-screen.min-h-full.h-max.flex.justify-center.items-center.text-dark-active-text > div.w-full.md\:w-\[488px\].relative.z-10.bg-black\/50.opacity-90.backdrop-blur-3xl.mb-24.md\:mb-0.md\:rounded-3xl.overflow-hidden > div > div.w-80.mx-auto.sign-in-account > div > div.mt-8.w-full > button > span > span"
-        sign_in_button = find_element(driver, By.CSS_SELECTOR, sign_in_button_css)
+        sign_in_button_xpath = '''//*[@id="sign_content"]/div[2]/div[1]/div/div[3]/div/div[4]/button/span/span'''
+        sign_in_button = find_element(driver, By.XPATH, sign_in_button_xpath)
         if sign_in_button:
             if click_element(driver, sign_in_button, use_js=True):
                 logging.info("Sign In button clicked successfully.")
@@ -153,21 +140,6 @@ def piclumen_sign_in(email, password, driver):
         else:
             logging.warning("Sign In button not found.")
             return False
-
-        #Claim button
-        claim_button_css = "body > div.n-modal-container > div > div > div.n-scrollbar-container > div > div.n-modal.relative.w-\[500px\].border.border-solid.border-border-1.flex.flex-col.rounded-2xl.overflow-hidden.bg-bg-3 > div.flex.justify-center.py-6.gap-x-3 > button.n-button.n-button--default-type.n-button--medium-type.min-w-\[120px\].h-10.px-3.\!bg-primary-6.\!text-text-white.hover\:\!bg-primary-5.active\:\!bg-primary-7"
-        claim_button = find_element(driver, By.CSS_SELECTOR, claim_button_css)
-        if claim_button:
-            if click_element(driver, claim_button, use_js=True):
-                logging.info("claim button clicked successfully.")
-                time.sleep(5)  # Wait for page to load after signing in
-            else:
-                logging.warning("Failed to click claim button.")
-                
-        else:
-            logging.info("claim button not found.")
-            
-        
 
     
 
@@ -326,7 +298,7 @@ def automate_piclumen(prompt_file_path, base_email, password, image_dir,start_id
             chrome_options.add_argument("--disable-blink-features=AutomationControlled")
             chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
             chrome_options.add_experimental_option("useAutomationExtension", False)
-            chrome_options.add_argument("--headless=new")
+            # chrome_options.add_argument("--headless=new")
 
             # Initialize the driver
             service = Service(executable_path=ChromeDriverManager().install())
@@ -345,7 +317,7 @@ def automate_piclumen(prompt_file_path, base_email, password, image_dir,start_id
 
             # Setup Image Generation Settings
             driver.get("https://piclumen.com/app/image-generator/create")
-            time.sleep(1.5)
+            time.sleep(0.2)
             if not navigate_and_interact(driver): # Implement the navigation_and_interact code to do the settings
                 logging.error("Failed to set up image generation settings. Exiting.")
                 driver.quit() # Close Driver
